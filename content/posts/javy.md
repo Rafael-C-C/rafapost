@@ -1,7 +1,7 @@
 ---
 title: "Javy"
 date: 2023-05-24T13:50:49-06:00
-draft: true
+draft: false
 ---
 
 ## The best part of love
